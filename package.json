@@ -1,0 +1,10 @@
+{
+  "name": "librepg",
+  "version": "0.1.0",
+  "description": "Run PostgreSQL locally with zero setup",
+  "bin": {
+    "librepg": "./cli.js"
+  },
+  "scripts": {},
+  "license": "MIT"
+}
